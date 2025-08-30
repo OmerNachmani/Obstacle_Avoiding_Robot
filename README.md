@@ -165,7 +165,10 @@ cd EchoRover
 ---
 
 ## 📸 Demo
-*(Add a photo or video link here once your robot runs.)*
+<img width="746" height="796" alt="Screenshot From 2025-08-30 21-12-20" src="https://github.com/user-attachments/assets/c7236eab-2605-438b-9ba2-e61b92723991" />
+
+https://github.com/user-attachments/assets/dc87bbd9-d3b4-40d4-8d7d-c6836ace8258
+
 
 ---
 
